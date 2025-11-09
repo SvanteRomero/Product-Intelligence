@@ -1,0 +1,4 @@
+Scrapy==2.13.0
+scrapy-playwright==0.0.43
+redis==5.0.4
+apache-airflow-providers-docker
